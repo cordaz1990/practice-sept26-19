@@ -1,1 +1,1 @@
-words = [["whal]]
+words = [["whale]]
