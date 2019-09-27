@@ -1,1 +1,1 @@
-words = [["whale","monkey"]["appl]]
+words = [["whale","monkey"]["apple]]
