@@ -1,3 +1,3 @@
 words = [["whale","monkey"]["apple"]]
 
-for word
+for words
